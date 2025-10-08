@@ -42,7 +42,11 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 */
 
 **RTL LOGIC FOR FLIPFLOPS**
+<img width="1918" height="1078" alt="EXP06 SR FLIPFLOP " src="https://github.com/user-attachments/assets/5c763f4f-3e78-4ee6-acf0-e19ddcef90d3" />
+
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
+<img width="1918" height="1078" alt="EXP06 SR FLIPFLOP CLOCK DIAGRAM" src="https://github.com/user-attachments/assets/ea999e02-e8f9-412b-8120-0fd42115983b" />
+
 
 **RESULTS**
